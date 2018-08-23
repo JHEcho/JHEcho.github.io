@@ -5,7 +5,7 @@ paginate: 100 # it will paginate after this number
 language: 'en-uk'
 
 # edit baseurl to simply '/' if using as your personal page (instead of a project page)
-baseurl: master
+baseurl: 
 
 # Website info
 title: Ghost
@@ -68,7 +68,7 @@ safe: False
 lsi: False
 username: Jhecho 
 repo: 
-branch: master
+branch:
 relative_source: 
 destination: ../jasper2-pages/
 production_url:  https://jekyller.github.io/jasper2/
